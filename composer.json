@@ -1,0 +1,10 @@
+{
+    "name": "flintlabs/formmetadatabundle",
+    "authors": [
+        {
+            "name": "camm",
+            "email": "camm@flintinteractive.com.au"
+        }
+    ],
+    "require": {}
+}
