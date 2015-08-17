@@ -6,5 +6,8 @@
             "email": "camm@flintinteractive.com.au"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": { "FlintLabs\\Bundle\\FormMetadataBundle\\": "" }
+    }  
 }
